@@ -1,8 +1,4 @@
 /*
-Matthew Stulz
-CSC 425
-Programming Assignment #3
-Due April 3, 2017
 This program is an implementation of a solar panel controller that uses Fuzzy Logic for the implementation. The solar
 panel has an angle that it is set at for each given season and also rotates through the hours of the day following the
 sun. The fuzzy membership functions are implemented with the time of day (rated on max sun we can get) along with the
